@@ -1,0 +1,10 @@
+@use "./base" as *;
+
+body {
+  font-size: 1rem;
+  font-weight: 400;
+  background: black;
+  color: white;
+  min-height: 100vh;
+  height: 100%;
+}
